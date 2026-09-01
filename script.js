@@ -36,7 +36,7 @@ const slides = [
   {d:5, tag:"😊 Another little memory…", text:"Kahit ordinaryong araw lang, nagiging magandang memory kapag kasama ka.", img:"assets/memory-17.png"},
   {d:5, tag:"🤍 Another little memory…", text:"May mga tahimik na moments na hindi kailangang maraming salita para maging espesyal.", img:"assets/memory-18.png"},
   {d:5, tag:"❤️ Another little memory…", text:"At isa pa 'to sa mga pictures na gusto kong balikan at alalahanin.", img:"assets/memory-19.png"},
-  {d:5, tag:"🌷 Para kay Edith ❤️", text:"“Salamat sa oras mo sa pagbabasa at panonood. Sana kahit saglit, napasaya at napangiti kita. ❤️”", img:"assets/octopus.png"}
+  {d:5, tag:"🌷 Pinaka-cute na babae sa paningin ko ❤️", text:"“Salamat sa oras mo sa pagbabasa at panonood. Sana kahit saglit, napasaya at napangiti kita. ❤️”", img:"assets/octopus.png"}
 ];
 
 // Keep all slide timings synchronized with the 4:14 soundtrack.
